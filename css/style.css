@@ -146,11 +146,12 @@ hr {
 /* Header Section */
 .intro {
 	display: table;
+	height: 100%;
 	width: 100%;
 	padding: 0;
 	text-align: center;
 	color: #333;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
+	background: url(../img/bg_sky.jpg) no-repeat center top;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
